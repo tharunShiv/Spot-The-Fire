@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "196693960252",
+    "firebase_url": "https://ml-kit-proj-706e6.firebaseio.com",
+    "project_id": "ml-kit-proj-706e6",
+    "storage_bucket": "ml-kit-proj-706e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196693960252:android:d7e81c0007793e34",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.image_labeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196693960252-4n6nomlsajp2paa3hcfh3apul9q4a6bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlkzZuQ93J5PlOr4riSmJO9nPAy9ReIzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

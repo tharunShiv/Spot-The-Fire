@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/main">
+        <item
+            android:id="@+id/Report"
+            android:title="REPORT">
+        </item>
+
+        <item
+            android:id="@+id/Track"
+            android:title="TRACK">
+        </item>
+
+        <item
+            android:id="@+id/FirstAid"
+            android:title="FIRST AID">
+        </item>
+    </group>
+    <group android:id="@+id/secondary">
+        <item
+            android:id="@+id/Traffic"
+            android:title="TRAFFIC">
+        </item>
+        <item
+            android:id="@+id/Firemen"
+            android:title="FIREMEN">
+
+        </item>
+    </group>
+</menu>
